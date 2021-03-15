@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="img/head.png" wigth="100%">
 
-<!--
-**Antonov-code/Antonov-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Ilya
 
-Here are some ideas to get you started:
+- 💪 I like to write code
+- 🥅 I am constantly learning new things
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+- [telegram][telegram]
+- [instagram][instagram]
+- [Linkedin][linkedin]
+- [VK][VK]
+
+[VK]: https://vk.com/antonov_i_aesthetics
+[linkedin]: https://www.linkedin.com/in/ilya-antonov-991423209/
+[instagram]: https://www.instagram.com/antonov_i_aesthetics/
+[telegram]: https://t.me/Antonov_i_a
